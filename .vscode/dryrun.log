@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/joserivera/Desktop/GoProject'
+make: Leaving directory '/home/joserivera/Desktop/GoProject'
+ 
+make: *** No targets.  Stop.
+
